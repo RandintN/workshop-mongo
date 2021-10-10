@@ -1,4 +1,4 @@
-package mongo;
+package software.robsoncassiano.learn.mongo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -8,6 +8,7 @@ class WorkshopMongoApplicationTests {
 
 	@Test
 	void contextLoads() {
+		assert true;
 	}
 
 }

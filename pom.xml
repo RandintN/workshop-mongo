@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>software.robsoncassiano.learn</groupId>
-	<artifactId>workshop-mongo</artifactId>
+	<artifactId>workshop-software.robsoncassiano.learn.mongo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>workshop-mongo</name>
-	<description>workshop-mongo</description>
+	<name>workshop-software.robsoncassiano.learn.mongo</name>
+	<description>workshop-software.robsoncassiano.learn.mongo</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
